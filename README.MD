@@ -3,7 +3,7 @@
  - disables inactive time counter and sets inactive time to 0
  - notify user when there is no timer found
 
-# How to use
+# How to use:
 1. Open [index.js](./index.js) in this repo.
 2. Copy the longest line (starts with `eval`).
 3. Start the test.
